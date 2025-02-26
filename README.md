@@ -44,3 +44,4 @@ D. Acronyms (Some strings have been replaced by the string which contains only l
 	... dotdotdot
 	/ fraction
 	c# cshrap
+ E. Folder model_save contains all saved models and folder file_preprocess contains all files which are necessary for preprocessing
